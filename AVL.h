@@ -1,10 +1,25 @@
-//
-//  AVL.h
-//  ADT_AVL
-//
-//  Created by Ayrton Cavalieri on 5/12/14.
-//  Copyright (c) 2014 AyrtonC. All rights reserved.
-//
+/*=====================================================================
+
+ ADT_AVL, Open Source AVL Abstract Data Type
+
+ (c) 2015 ADT_AVL Authors
+
+ This file is part of the ADT_AVL project
+
+ ADT_AVL is free software: you can redistribute it and/or modify
+ it under the terms of the GNU Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+
+ ADT_AVL is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+ GNU General Public License for more details.
+
+ You should have received a copy of the GNU General Public License
+ along with ADT_AVL. If not, see <http://www.gnu.org/licenses/>.
+
+ ======================================================================*/
 
 #include <stdlib.h>
 
